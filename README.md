@@ -6,8 +6,11 @@ Deloitte Cybersecurity simulation - Traffic Logs Analysis
 /Deloitte_Cybersecurity-simulation
 │
 ├── README.md
-├── web_requests.log  
+
+├── web_requests.log 
+
 ├── analysis-notes.md
+
 └── screenshots/
 
 
