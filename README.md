@@ -68,3 +68,8 @@ This simulation emphasized how subtle patterns in user behavior can uncover secu
 ## 🔗 Challenge URL
 
 [🔗 Deloitte Forage Cyber Security Simulation](https://www.theforage.com/simulations/deloitte-au/cyber-c1e3)
+
+I'd like to extend a sincere thank you to The Forage and Deloitte for creating such a well-crafted and realistic cyber security simulation. The experience provided a valuable hands-on opportunity to apply investigative techniques in log analysis, recognize patterns of automation, and think critically about network access controls. It was insightful to simulate a real-world incident response scenario and explore the challenges security teams face when protecting internal infrastructure. This kind of practical, skills-based learning is truly impactful — thank you for making it accessible and engaging.
+
+I hope you found this walkthrough valuable! If this content helped you, please consider showing your support. Your feedback is invaluable and motivates me to continue supporting your journey in the cybersecurity community. Remember, LET'S ALL BE MORE SECURE TOGETHER! For more insights and updates on cybersecurity analysis, follow me on Substack! 
+[https://substack.com/@atlasprotect?r=1f5xo4&utm_campaign=profile&utm_medium=profile-page]
