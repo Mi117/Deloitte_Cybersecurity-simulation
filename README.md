@@ -3,8 +3,6 @@ Deloitte Cybersecurity simulation - Traffic Logs Analysis
 
 # 🛡️ Deloitte Forage Cyber Simulation – Network Log Analysis Challenge
 
-/Deloitte_Cybersecurity-simulation
-│
 ├── README.md
 
 ├── web_requests.log 
