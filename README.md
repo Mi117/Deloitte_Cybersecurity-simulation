@@ -3,6 +3,14 @@ Deloitte Cybersecurity simulation - Traffic Logs Analysis
 
 # 🛡️ Deloitte Forage Cyber Simulation – Network Log Analysis Challenge
 
+/Deloitte_Cybersecurity-simulation
+│
+├── README.md
+├── web_requests.log  
+├── analysis-notes.md
+└── screenshots/
+
+
 ## 📌 Scenario
 
 Daikibo Industrials, a major manufacturing company, experienced a serious production disruption after a **data breach** led to the leak of sensitive internal information. As part of Deloitte’s Cyber Security team, the task was to **analyze web traffic logs** and investigate if the breach could have occurred **without VPN access** and identify **suspicious user activity**.
